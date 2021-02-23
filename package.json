@@ -23,7 +23,7 @@
   "dependencies": {
     "focus-visible": "^5.1.0",
     "infinite-scroll": "^3.0.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "markdown-it-anchor": "^5.3.0",
     "preact": "^10.4.4",
     "svgxuse": "^1.2.6"
